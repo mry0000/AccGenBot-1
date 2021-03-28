@@ -18,7 +18,7 @@ email@email.com:password
 # My Devs
 ➥ [SoulHackz](https://t.me/SoulHackz)
 
-## Thanks To [Xditya 🇮🇳](https://GitHub.com/Xditya) for his base!
+### Thanks To [Xditya 🇮🇳](https://GitHub.com/Xditya) for his base!
 
 # Configs
 ```
