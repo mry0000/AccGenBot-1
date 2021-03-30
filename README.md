@@ -3,6 +3,14 @@
 # AccGenBot
 A Simple Multi-AccGenBot Source Code Made With Python [Telethon]
 
+[![Stars](https://img.shields.io/github/stars/SoulHackz/AccGenBot?style=flat-square&color=green)](https://github.com/SoulHackz/AccGenBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/SoulHackz/AccGenBot?style=flat-square&color=green)](https://github.com/SoulHackz/AccGenBot/fork)
+[![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Size](https://img.shields.io/github/repo-size/SoulHackz/AccGenBot?style=flat-square&color=green)](https://github.com/SoulHackz/AccGenBot/)
+
+## Our Updates Channel
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/UniqCoderZ)
+
 # Features
 * [x] You can add 4 types of Accounts
 * [x] Customisable
