@@ -4,8 +4,8 @@
 A Simple Multi-AccGenBot Source Code Made With Python [Telethon]
 
 ## Information
-[![Stars](https://img.shields.io/github/stars/SoulHackz/AccGenBot?style=flat-square&color=green)](https://github.com/StarkBots/AccGenBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/SoulHackz/AccGenBot?style=flat-square&color=green)](https://github.com/StarkBots/AccGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/StarkBots/AccGenBot?style=flat-square&color=green)](https://github.com/StarkBots/AccGenBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/StarkBots/AccGenBot?style=flat-square&color=green)](https://github.com/StarkBots/AccGenBot/fork)
 [![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Size](https://img.shields.io/github/repo-size/StarkBots/AccGenBot?style=flat-square&color=green)](https://github.com/SoulHackz/AccGenBot/)
 
